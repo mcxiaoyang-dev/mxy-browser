@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 环境与密钥
+.env
+*.key
+*.pem
+
+# 系统/编辑器
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 运行产物
+*.log
+*.sqlite
+*.db
